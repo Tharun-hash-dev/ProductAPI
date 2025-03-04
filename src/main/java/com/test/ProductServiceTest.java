@@ -1,7 +1,7 @@
-package com.example.documentapi.service;
+package com.test.api.service;
 
-import com.example.documentapi.model.Product;
-import com.example.documentapi.repository.ProductRepository;
+import com.test.api.model.*;
+import com.test.api.repository.ProductRepository;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;
